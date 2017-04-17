@@ -1,6 +1,7 @@
 ## Architecture
     
    ![alt tag](./pic/cloudfoundry_marketecture.png)
+   ![alt tag](./pic/cloudfoundry_platform_architecture.png)
 
 ### [Overview](https://docs.cloudfoundry.org/concepts/architecture/)
     CC: The Cloud Foundry Cloud Controller.
