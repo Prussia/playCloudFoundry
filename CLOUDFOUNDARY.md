@@ -1,3 +1,7 @@
+## Architecture
+    
+   ![alt tag](./pic/cloudfoundry_marketecture.png)
+
 ### [Overview](https://docs.cloudfoundry.org/concepts/architecture/)
     CC: The Cloud Foundry Cloud Controller.
     CC DB: The Cloud Controller database.
@@ -14,3 +18,4 @@
     UAA: The Cloud Foundry User Account and Authentication Server.
   
   ![alt tag](./pic/component-communication.png)
+  
